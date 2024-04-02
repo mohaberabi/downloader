@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">downloader</string>
+    <string name="app_description">downloader\n</string>
+    <string name="channel_id">channel_id</string>
+    <string name="notification_title">Check your downloads\n</string>
+    <string name="download_check">Cehck your downloads</string>
+</resources>
